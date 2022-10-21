@@ -1,0 +1,10 @@
+{
+  "provider": "https://polygon-rpc.com",
+  "contractAddress": "0xc17b109E146934D36c33E55FADE9cBDa791b0366",
+  "fromBlock": 19303667,
+  "toBlock": "28550000",
+  "format": "json",
+  "blocksPerBatch": 2500,
+  "delay": 0,
+  "checkIfContract": "yes"
+}     
